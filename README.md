@@ -1,2 +1,5 @@
 # example_repo
-Learning Git in p8105
+
+author is Gustavo
+
+this replo is an example for p8105.
